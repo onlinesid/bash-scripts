@@ -2,9 +2,6 @@
 
 SCRIPT_ID=$1
 
-# prod, uat, alphaone, silex
-PATH_OPTION=$2
-
 LOCK_FILE_DIR="/lock/file/directory"
 
 # Maximum number of minutes before the lock file will be deleted anyway
